@@ -1,10 +1,10 @@
-Reverse a string without using built‑in reverse methods.
+Reverse a string without using built‑in reverse methods.  *
 
-Check if a string is a palindrome.
+Check if a string is a palindrome. * 
 
-Find the first non‑repeated character in a string.
+Find the first non‑repeated character in a string. *
 
-Count occurrences of each character in a string.
+Count occurrences of each character in a string. * 
 
 Determine if two strings are anagrams.
 
