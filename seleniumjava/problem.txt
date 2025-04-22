@@ -1,0 +1,400 @@
+Reverse a string without using built‑in reverse methods.
+
+Check if a string is a palindrome.
+
+Find the first non‑repeated character in a string.
+
+Count occurrences of each character in a string.
+
+Determine if two strings are anagrams.
+
+Check if one string is a rotation of another.
+
+Find the length of the longest palindromic substring.
+
+Implement indexOf() (find first occurrence of a substring).
+
+Remove duplicate characters from a string.
+
+Check if a string has all unique characters.
+
+Compress a string using counts of repeated characters (e.g., “aabcccccaaa” → “a2b1c5a3”).
+
+Expand a run‑length encoded string back to original form.
+
+Check if a string is a valid shuffle of two other strings.
+
+Reverse the words in a sentence (preserve word order).
+
+Reverse words in a sentence in place (no extra buffer).
+
+Left‑rotate a string by k characters.
+
+Right‑rotate a string by k characters.
+
+Check if two strings are one edit (insert, delete, or replace) away.
+
+Find all permutations of a string.
+
+Generate all subsets (the power set) of characters in a string.
+
+Determine if a string matches a given wildcard pattern (?, *).
+
+Implement basic regular expression matching for . and *.
+
+Find the longest common prefix among an array of strings.
+
+Find the longest common substring of two strings.
+
+Check if a string contains any permutation of another string.
+
+Find the smallest window in a string containing all characters of another string.
+
+Count the number of substrings that are palindromes.
+
+Determine if a string is “rotationally” palindromic (after rotations).
+
+Find the longest substring without repeating characters.
+
+Group anagrams from a list of strings.
+
+Check if a string is made of repeated substrings.
+
+Implement atoi() to convert string to integer.
+
+Implement itoa() to convert integer to string.
+
+Add two large numbers represented as strings.
+
+Multiply two large numbers represented as strings.
+
+Check if parentheses/brackets are balanced in a string.
+
+Evaluate a simple arithmetic expression given as a string (no parentheses).
+
+Evaluate arithmetic expression with (), +, -, *, /.
+
+Decode a string with patterns like “3[a2[c]]”.
+
+Encode/decode URL (percent‑encoding).
+
+Implement a basic HTML tag stripper.
+
+Check if a string contains valid IPv4 or IPv6 address.
+
+Validate an email address against RFC‑like rules.
+
+Convert Roman numerals to integer.
+
+Convert integer to Roman numerals.
+
+Find all palindromic partitions of a string.
+
+Merge two sorted strings character by character.
+
+Find the minimum number of insertions to make a string palindrome.
+
+Find the minimum number of deletions to make a string palindrome.
+
+Check if two strings have the same character frequency for every possible substring length.
+
+Determine the longest chain of characters increasing by one (e.g., “abcde”).
+
+Check if string A is a subsequence of string B.
+
+Find next lexicographical permutation of a string.
+
+Generate the “look‑and‑say” sequence up to n terms.
+
+Count binary substrings with equal consecutive 0s and 1s.
+
+Remove all vowels from a string.
+
+Count the number of palindromic subsequences.
+
+Check if two strings are scramble strings.
+
+Find the shortest palindrome by adding characters in front.
+
+Determine if string can be segmented into dictionary words.
+
+Find all ways to split a string into prime‑number substrings.
+
+Interleave two strings to form a third.
+
+Restore IP addresses from a string of digits.
+
+Find maximum number of non‑overlapping palindromic substrings of length ≥ k.
+
+Count distinct substrings of a string.
+
+Compute edit distance (Levenshtein distance) between two strings.
+
+Find smallest cyclic shift of a string (lexicographically minimal rotation).
+
+Determine if two strings are at most k edits away.
+
+Find longest subsequence common to two strings.
+
+Check if string is a valid palindrome ignoring non‑alphanumeric.
+
+Find the longest common subsequence of three strings.
+
+Compute suffix array of a string.
+
+Build a suffix tree for a string.
+
+Find the string’s minimal unique substring starting at each position.
+
+Compute Z‑array or Z‑function for a string.
+
+Compute the prefix function (KMP failure array) for pattern matching.
+
+Implement KMP string search algorithm.
+
+Implement Boyer–Moore string search algorithm.
+
+Implement Rabin–Karp string search algorithm.
+
+Find longest repeating substring.
+
+Replace all occurrences of a substring with another.
+
+Implement a simple Trie for a dictionary of words.
+
+Given a string and a pattern, find all anagram start indices.
+
+Determine if a string can form a palindrome by rearrangement.
+
+Find the longest mirrored substring (e.g. “abcXYZcba” → “abc…cba”).
+
+Check if string is a “power string” (one string concatenated multiple times).
+
+Compute the number of distinct palindromic substrings.
+
+Build an LRU cache keyed by substrings.
+
+Compute minimal window subsequence.
+
+Find the longest even‑length substring which is palindrome.
+
+Find longest odd‑length palindromic substring.
+
+Check if two strings are inter-convertible by at most one swap.
+
+Find the lexicographically next greater string using same characters.
+
+Group strings by shifting sequences (e.g., “abc”, “bcd”).
+
+Count number of subsequences equal to a target string.
+
+Check if two strings are identical under wildcard matching.
+
+Determine minimal edits to convert one string to another allowing swaps.
+
+Find the maximum number of times a string occurs as a subsequence of another.
+
+Implement a cyclic redundancy check (CRC) on input string.
+
+Build and query a suffix automaton for a string.
+
+100 Java Array‑Based Problems
+Find the maximum and minimum elements in an array.
+
+Compute the sum of all elements in an array.
+
+Reverse an array in place.
+
+Rotate an array by k positions (left or right).
+
+Check if an array is sorted.
+
+Merge two sorted arrays into one sorted array.
+
+Remove duplicates from a sorted array in place.
+
+Remove duplicates from an unsorted array.
+
+Find the kᵗʰ largest and kᵗʰ smallest elements.
+
+Implement two‑sum: find indices whose elements add to target.
+
+Find three numbers whose sum is closest to target.
+
+Find all unique triplets that sum to zero.
+
+Container with most water (max area).
+
+Maximum subarray sum (Kadane’s algorithm).
+
+Maximum product subarray.
+
+Find subarray with given sum (positive numbers).
+
+Find subarray with given sum (including negatives).
+
+Count subarrays with sum = k.
+
+Longest subarray with sum = 0.
+
+Longest subarray with equal 0s and 1s.
+
+Spiral order traversal of a 2D array.
+
+Rotate a 2D matrix by 90° in place.
+
+Set matrix zeros: if an element is zero, set its entire row and column to zero.
+
+Search in a row‑ and column‑wise sorted matrix.
+
+Merge overlapping intervals.
+
+Insert interval into sorted, non‑overlapping intervals.
+
+Given meeting time intervals, find minimum meeting rooms required.
+
+Group overlapping intervals.
+
+Find the intersection of two arrays.
+
+Find the intersection of two arrays with duplicates.
+
+Compute the union of two arrays.
+
+Find the missing number in [1…n] array of size n−1.
+
+Find all missing numbers in array of 1…n.
+
+Find repeating numbers in an array of size n with numbers 1…n.
+
+Find the first missing positive integer.
+
+Find the majority element (> n/2 occurrences).
+
+Find all elements that appear more than ⌊n/3⌋ times.
+
+Dutch national flag problem (sort 0s, 1s, 2s).
+
+Move all zeros to the end while maintaining relative order.
+
+Partition array for quicksort (Hoare’s/Lomuto’s).
+
+Wiggle sort: reorder so a[0] < a[1] > a[2] < a[3]….
+
+Next permutation of an array.
+
+Previous permutation of an array.
+
+Find longest increasing subsequence.
+
+Longest decreasing subsequence.
+
+Longest bitonic subsequence.
+
+Count number of increasing subsequences.
+
+Longest alternating subsequence.
+
+Longest arithmetic progression in an array.
+
+Find the length of the longest consecutive elements sequence.
+
+Find maximum difference j − i such that arr[j] > arr[i].
+
+Stock buy‑sell problem: max profit with one transaction.
+
+Stock buy‑sell: max profit with multiple transactions.
+
+Stock buy‑sell with cooldown period.
+
+Stock buy‑sell with transaction fee.
+
+Find maximum sum such that no two elements are adjacent.
+
+Count subarrays with product less than k.
+
+Minimum size subarray sum ≥ s.
+
+Find peak (local maximum) in an array.
+
+Search in a rotated sorted array (no duplicates).
+
+Search in a rotated sorted array (with duplicates).
+
+Find minimum element in rotated sorted array.
+
+Median of two sorted arrays.
+
+Find kᵗʰ smallest element in two sorted arrays.
+
+Smallest range covering elements from k lists.
+
+Find the longest subarray with sum divisible by k.
+
+Check if array can be partitioned into two subsets with equal sum.
+
+Partition into k subsets with equal sum.
+
+Partition labels: split string into parts so each letter appears in at most one part.
+
+Find minimum jumps to reach end of array.
+
+Jump game: can reach end?
+
+Gas station: can complete circuit?
+
+Circular tour problem.
+
+Maximum sum circular subarray.
+
+Shuffle an array randomly (Fisher–Yates).
+
+Find duplicate number when only one repeats but might repeat multiple times.
+
+Find minimum window in array that, when sorted, sorts the whole array.
+
+Number of islands in a binary matrix (array) using DFS/BFS.
+
+Maximum area of island in grid.
+
+Surrounded regions: capture regions on board.
+
+Word search in 2D board.
+
+Rotten oranges: minimum time to rot all.
+
+Game of life simulation.
+
+Largest rectangle in a histogram.
+
+Maximal rectangle in a binary matrix.
+
+Sliding window maximum.
+
+Sliding window median.
+
+Shortest subarray with sum at least k.
+
+Longest subarray with at most k distinct integers.
+
+Longest substring with at most k distinct characters (array of chars).
+
+Subarrays with at most K odd numbers.
+
+Count subarrays with exactly K odd numbers.
+
+Find minimum deletions to make array elements equal.
+
+Longest common subarray of two arrays.
+
+Find intersection point of two linked lists represented as arrays of nodes.
+
+Reconstruct itinerary from ticket pairs.
+
+Course schedule: detect cycle in prerequisites (graph via adjacency list).
+
+Topological sort of directed acyclic graph.
+
+Alien dictionary: find character order from sorted words.
+
+Evaluate Reverse Polish Notation using stack on array of tokens.

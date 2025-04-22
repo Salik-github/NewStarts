@@ -4,7 +4,7 @@ import java.io.FileInputStream;
 import java.util.Properties;
 
 
-
+public class  getDataFromproperties{
 
 public String getData(String key) {
         Properties properties = new Properties();
@@ -20,5 +20,7 @@ public String getData(String key) {
         return properties.getProperty(key);
 
     }
+}
+
 
 
